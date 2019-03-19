@@ -11,7 +11,6 @@ radtech.eu\
 sechonoclegi.bydgoszcz.pl/wp\
 wladyslawowo-adam.pl/wp\
 wladek.sportpag.pl\
-veganhouse.pl \'96 some parts\
-fundacja.gregsoft.pl \'96 not finish \
-hotel.gregsoft.pl \'96 not finish\
-}
+veganhouse.pl  some parts
+fundacja.gregsoft.pl  not finish 
+hotel.gregsoft.pl  not finish
