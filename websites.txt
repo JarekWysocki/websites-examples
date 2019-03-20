@@ -2,10 +2,12 @@
 
 Here is examples websites I made  :
 
-radtech.eu
-sechonoclegi.bydgoszcz.pl/wp
+
+sechonoclegi.bydgoszcz.pl
 wladyslawowo-adam.pl/wp
 wladek.sportpag.pl
-veganhouse.pl - some parts
 fundacja.gregsoft.pl - not finish 
 hotel.gregsoft.pl - not finish
+radtech.eu
+veganhouse.pl - some parts
+
