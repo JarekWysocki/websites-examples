@@ -2,15 +2,13 @@
 
 Here is examples websites I made  :
 
-nowa.akademiaperswazji.pl - not finish
-starowka.gregsoft.com.pl - not finish
 doktordodomu.pl
-winiarski.gregsoft.com.pl
-hotel.gregsoft.pl - not finish
-sechonoclegi.bydgoszcz.pl
+nowa.akademiaperswazji.pl
+starowkaoffice.pl
+www.wident.eu
+sehonoclegi.bydgoszcz.pl
 wladyslawowo-adam.pl
 vladimirborodulin.com
-fundacja.gregsoft.pl - not finish 
 radtech.eu
 veganhouse.pl - some parts
 
